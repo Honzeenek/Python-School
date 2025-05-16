@@ -9,3 +9,5 @@ def stesti(n):
     print(f'Pravdepodobnost vyhry pri {n} hodech: {pocitadlo / n}')
 
 stesti(10)
+stesti(100)
+stesti(1000)

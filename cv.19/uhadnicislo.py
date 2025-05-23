@@ -17,5 +17,4 @@ def zkus():
                 print('Špatně, hádej dál.')
         except ValueError:
             print('Zadej prosím platné číslo.')
-
 zkus()
